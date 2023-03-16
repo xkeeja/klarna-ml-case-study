@@ -1,4 +1,4 @@
-nb/*.ipynb linguist-detected=true
+nb/*.ipynb linguist-generated=true
 
 # Auto detect text files and perform LF normalization
 * text=auto
